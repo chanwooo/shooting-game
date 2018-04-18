@@ -3,4 +3,4 @@ Debug/
 *.suo
 *.aps
 *.rc
-*.vjpro*
+*.vcproj*
